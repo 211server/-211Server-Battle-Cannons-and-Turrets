@@ -9,7 +9,7 @@
         <TypeId>LargeGatlingTurret</TypeId>
         <SubtypeId>MiniVulcan</SubtypeId>
       </Id>
-      <DisplayName>"M61" Mini Vulcan</DisplayName>
+      <DisplayName>"M61"迷你火神机炮</DisplayName>
       <Icon>Textures\GUI\SentryVulcanGatling.dds</Icon>
       <Description />
       <CubeSize>Small</CubeSize>
@@ -73,7 +73,7 @@
       <EmissiveColorPreset>Default</EmissiveColorPreset>
       <DestroyEffect>BlockDestroyedExplosion_Large</DestroyEffect>
       <DestroySound>WepSmallWarheadExpl</DestroySound>
-      <PCU>1</PCU>
+      <PCU>100</PCU>
       <IsAirTight>false</IsAirTight>
       <AiEnabled>true</AiEnabled>
     </Definition>

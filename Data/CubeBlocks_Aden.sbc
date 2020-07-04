@@ -7,7 +7,7 @@
         <TypeId>LargeGatlingTurret</TypeId>
         <SubtypeId>LargeAden</SubtypeId>
       </Id>
-      <DisplayName>"30mm" Aden</DisplayName>
+      <DisplayName>"30mm"亚丁转膛机炮</DisplayName>
       <Icon>Textures\GUI\AdenTurret.dds</Icon>
       <Description />
       <CubeSize>Large</CubeSize>
@@ -71,7 +71,7 @@
       <EmissiveColorPreset>Default</EmissiveColorPreset>
       <DestroyEffect>BlockDestroyedExplosion_Large</DestroyEffect>
       <DestroySound>WepSmallWarheadExpl</DestroySound>
-      <PCU>1</PCU>
+      <PCU>225</PCU>
       <IsAirTight>false</IsAirTight>
       <AiEnabled>true</AiEnabled>
     </Definition>
@@ -83,7 +83,7 @@
         <TypeId>LargeGatlingTurret</TypeId>
         <SubtypeId>SmallAden</SubtypeId>
       </Id>
-      <DisplayName>"30mm" Aden</DisplayName>
+      <DisplayName>"30mm"亚丁转膛机炮</DisplayName>
       <Icon>Textures\GUI\AdenTurret.dds</Icon>
       <Description />
       <CubeSize>Small</CubeSize>
@@ -148,7 +148,7 @@
       <EmissiveColorPreset>Default</EmissiveColorPreset>
       <DestroyEffect>BlockDestroyedExplosion_Large</DestroyEffect>
       <DestroySound>WepSmallWarheadExpl</DestroySound>
-      <PCU>1</PCU>
+      <PCU>225</PCU>
       <IsAirTight>false</IsAirTight>
       <AiEnabled>true</AiEnabled>
     </Definition>

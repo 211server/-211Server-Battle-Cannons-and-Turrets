@@ -7,7 +7,7 @@
         <TypeId>AmmoMagazine</TypeId>
         <SubtypeId>Aden30x113</SubtypeId>
       </Id>
-      <DisplayName>"30x113" Aden</DisplayName>
+      <DisplayName>"30x113"亚丁</DisplayName>
       <Icon>Textures\GUI\AdenAmmo30x113.dds</Icon>
       <Size>
         <X>0.25</X>

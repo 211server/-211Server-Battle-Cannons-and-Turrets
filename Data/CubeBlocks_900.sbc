@@ -7,7 +7,7 @@
         <TypeId>LargeMissileTurret</TypeId>
         <SubtypeId>900mmAutoCannon_1</SubtypeId>
       </Id>
-      <DisplayName>"900mm" Auto Cannon</DisplayName>
+      <DisplayName>"900mm"自动加农炮</DisplayName>
       <Icon>Textures\GUI\900mm_AutoCannon.dds</Icon>
       <Description />
       <CubeSize>Large</CubeSize>
@@ -71,7 +71,7 @@
       <MaxFov>1.04719755</MaxFov>
       <DestroyEffect>BlockDestroyedExplosion_Large</DestroyEffect>
       <DestroySound>WepSmallWarheadExpl</DestroySound>
-      <PCU>1</PCU>
+      <PCU>1000</PCU>
       <IsAirTight>false</IsAirTight>   
       <AiEnabled>true</AiEnabled>
     </Definition>
@@ -84,7 +84,7 @@
         <TypeId>LargeMissileTurret</TypeId>
         <SubtypeId>900mmAutoCannon_2</SubtypeId>
       </Id>
-      <DisplayName>"2x900mm" Auto Cannon</DisplayName>
+      <DisplayName>"2x900mm"自动加农炮</DisplayName>
       <Icon>Textures\GUI\2x300mm_AutoCannon.dds</Icon>
       <Description />
       <CubeSize>Large</CubeSize>
@@ -148,7 +148,7 @@
       <MaxFov>1.04719755</MaxFov>
       <DestroyEffect>BlockDestroyedExplosion_Large</DestroyEffect>
       <DestroySound>WepSmallWarheadExpl</DestroySound>
-      <PCU>1</PCU>
+      <PCU>2000</PCU>
       <IsAirTight>false</IsAirTight>
       <AiEnabled>true</AiEnabled>
     </Definition>
@@ -160,7 +160,7 @@
         <TypeId>LargeMissileTurret</TypeId>
         <SubtypeId>900mmAutoCannon_3</SubtypeId>
       </Id>
-      <DisplayName>"3x900mm" Auto Cannon</DisplayName>
+      <DisplayName>"3x900mm"自动加农炮</DisplayName>
       <Icon>Textures\GUI\3x300mm_AutoCannon.dds</Icon>
       <Description />
       <CubeSize>Large</CubeSize>
@@ -224,7 +224,7 @@
       <MaxFov>1.04719755</MaxFov>
       <DestroyEffect>BlockDestroyedExplosion_Large</DestroyEffect>
       <DestroySound>WepSmallWarheadExpl</DestroySound>
-      <PCU>1</PCU>
+      <PCU>3000</PCU>
       <IsAirTight>false</IsAirTight>
       <AiEnabled>true</AiEnabled>
     </Definition>

@@ -7,7 +7,7 @@
         <TypeId>LargeGatlingTurret</TypeId>
         <SubtypeId>LargeVulcan</SubtypeId>
       </Id>
-      <DisplayName>"M61" Vulcan</DisplayName>
+      <DisplayName>"M61"火神机枪</DisplayName>
       <Icon>Textures\GUI\GatlingTurret.dds</Icon>
       <Description />
       <CubeSize>Large</CubeSize>
@@ -72,7 +72,7 @@
       <EmissiveColorPreset>Default</EmissiveColorPreset>
       <DestroyEffect>BlockDestroyedExplosion_Large</DestroyEffect>
       <DestroySound>WepSmallWarheadExpl</DestroySound>
-      <PCU>1</PCU>
+      <PCU>225</PCU>
       <IsAirTight>false</IsAirTight>
       <AiEnabled>true</AiEnabled>
     </Definition>
@@ -84,7 +84,7 @@
         <TypeId>LargeGatlingTurret</TypeId>
         <SubtypeId>SmallVulcan</SubtypeId>
       </Id>
-      <DisplayName>"M61" Vulcan</DisplayName>
+      <DisplayName>"M61"火神机枪</DisplayName>
       <Icon>Textures\GUI\GatlingTurret.dds</Icon>
       <Description />
       <CubeSize>Small</CubeSize>
@@ -150,7 +150,7 @@
       <EmissiveColorPreset>Default</EmissiveColorPreset>
       <DestroyEffect>BlockDestroyedExplosion_Large</DestroyEffect>
       <DestroySound>WepSmallWarheadExpl</DestroySound>
-      <PCU>1</PCU>
+      <PCU>225</PCU>
       <IsAirTight>false</IsAirTight>
       <AiEnabled>true</AiEnabled>
     </Definition>

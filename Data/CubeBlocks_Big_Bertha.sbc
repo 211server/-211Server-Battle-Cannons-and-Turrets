@@ -7,7 +7,7 @@
         <TypeId>SmallMissileLauncher</TypeId>
         <SubtypeId>LittleDavid</SubtypeId>
       </Id>
-      <DisplayName>Little David</DisplayName>
+      <DisplayName>小大卫超大口径迫击炮</DisplayName>
       <Icon>Textures\GUI\Little_David.dds</Icon>
       <Description />
       <CubeSize>Large</CubeSize>
@@ -52,7 +52,7 @@
       <MaxRangeMeters>3000</MaxRangeMeters>
       <DestroyEffect>BlockDestroyedExplosion_Small</DestroyEffect>
       <DestroySound>WepSmallWarheadExpl</DestroySound>
-      <PCU>1</PCU>
+      <PCU>15000</PCU>
     </Definition>
 
 
@@ -61,7 +61,7 @@
         <TypeId>SmallMissileLauncher</TypeId>
         <SubtypeId>BigBertha</SubtypeId>
       </Id>
-      <DisplayName>Big Bertha</DisplayName>
+      <DisplayName>大贝莎超重型榴弹炮</DisplayName>
       <Icon>Textures\GUI\Big_Bertha.dds</Icon>
       <Description />
       <CubeSize>Large</CubeSize>
@@ -107,7 +107,7 @@
       <DamagedSound>ParticleWeapExpl</DamagedSound>
       <DestroyEffect>BlockDestroyedExplosion_Small</DestroyEffect>
       <DestroySound>WepSmallWarheadExpl</DestroySound>
-      <PCU>1</PCU>
+      <PCU>50000</PCU>
     </Definition>
 
 
@@ -130,7 +130,7 @@
         <TypeId>SmallMissileLauncher</TypeId>
         <SubtypeId>LittleDavidSmall</SubtypeId>
       </Id>
-      <DisplayName>Little David</DisplayName>
+      <DisplayName>小大卫超大口径迫击炮</DisplayName>
       <Icon>Textures\GUI\Little_David.dds</Icon>
       <Description />
       <CubeSize>Small</CubeSize>
@@ -174,7 +174,7 @@
       <DamagedSound>ParticleWeapExpl</DamagedSound>
       <DestroyEffect>BlockDestroyedExplosion_Small</DestroyEffect>
       <DestroySound>WepSmallWarheadExpl</DestroySound>
-      <PCU>1</PCU>
+      <PCU>15000</PCU>
     </Definition>
 
 

@@ -135,7 +135,7 @@
         <TypeId>GuiBlockCategoryDefinition</TypeId>
         <SubtypeId/>
       </Id>
-      <DisplayName>+ Rider - Cannon</DisplayName>
+      <DisplayName>战斗加农炮与炮塔</DisplayName>
       <Name>z-mod-rider-Cannon</Name>
       <ItemIds>
 

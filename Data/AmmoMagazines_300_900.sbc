@@ -7,7 +7,7 @@
         <TypeId>AmmoMagazine</TypeId>
         <SubtypeId>300mmShell_HE</SubtypeId>
       </Id>
-      <DisplayName>"300mm" Shell HE</DisplayName>
+      <DisplayName>"300mm"高爆弹</DisplayName>
       <Icon>Textures\GUI\300mmShell_HE.dds</Icon>
       <IsExplosive>true</IsExplosive>
       <Size>
@@ -30,7 +30,7 @@
         <TypeId>AmmoMagazine</TypeId>
         <SubtypeId>900mmShell_HE</SubtypeId>
       </Id>
-      <DisplayName>"900mm" Shell HE</DisplayName>
+      <DisplayName>"900mm"高爆弹</DisplayName>
       <Icon>Textures\GUI\300mmShell_HE.dds</Icon>
       <IsExplosive>true</IsExplosive>
       <Size>
@@ -60,7 +60,7 @@
         <TypeId>AmmoMagazine</TypeId>
         <SubtypeId>300mmShell_AP</SubtypeId>
       </Id>
-      <DisplayName>"300mm" Shell AP</DisplayName>
+      <DisplayName>"300mm"穿甲弹</DisplayName>
       <Icon>Textures\GUI\300mmShell_AP.dds</Icon>
       <IsExplosive>true</IsExplosive>
       <Size>
@@ -82,7 +82,7 @@
         <TypeId>AmmoMagazine</TypeId>
         <SubtypeId>900mmShell_AP</SubtypeId>
       </Id>
-      <DisplayName>"900mm" Shell AP</DisplayName>
+      <DisplayName>"900mm"穿甲弹</DisplayName>
       <Icon>Textures\GUI\300mmShell_AP.dds</Icon>
       <IsExplosive>true</IsExplosive>
       <Size>

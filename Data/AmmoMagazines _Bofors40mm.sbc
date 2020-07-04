@@ -6,7 +6,7 @@
         <TypeId>AmmoMagazine</TypeId>
         <SubtypeId>Bofors40mm</SubtypeId>
       </Id>
-      <DisplayName>Bofors 40mm</DisplayName>
+      <DisplayName>博福斯40mm</DisplayName>
       <Icon>Textures\GUI\40mmShell.dds</Icon>
       <Size>
         <X>0.25</X>

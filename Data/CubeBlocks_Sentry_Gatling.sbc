@@ -7,7 +7,7 @@
         <TypeId>LargeGatlingTurret</TypeId>
         <SubtypeId>SmallSentryGatling</SubtypeId>
       </Id>
-      <DisplayName>"25mm" Sentry Gatling</DisplayName>
+      <DisplayName>"25mm"哨戒加特林</DisplayName>
       <Icon>Textures\GUI\SentryGatling.dds</Icon>
       <Description />
       <CubeSize>Small</CubeSize>
@@ -71,7 +71,7 @@
       <EmissiveColorPreset>Default</EmissiveColorPreset>
       <DestroyEffect>BlockDestroyedExplosion_Large</DestroyEffect>
       <DestroySound>WepSmallWarheadExpl</DestroySound>
-      <PCU>1</PCU>
+      <PCU>50</PCU>
       <IsAirTight>false</IsAirTight>
       <AiEnabled>true</AiEnabled>
     </Definition>

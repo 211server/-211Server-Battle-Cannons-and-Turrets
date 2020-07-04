@@ -7,7 +7,7 @@
         <TypeId>LargeMissileTurret</TypeId>
         <SubtypeId>300mmAutoCannon_1</SubtypeId>
       </Id>
-      <DisplayName>"300mm" Auto Cannon</DisplayName>
+      <DisplayName>"300mm"自动加农炮</DisplayName>
       <Icon>Textures\GUI\300mm_AutoCannon.dds</Icon>
       <Description />
       <CubeSize>Large</CubeSize>
@@ -70,7 +70,7 @@
       <MaxFov>1.04719755</MaxFov>
       <DestroyEffect>BlockDestroyedExplosion_Large</DestroyEffect>
       <DestroySound>WepSmallWarheadExpl</DestroySound>
-      <PCU>1</PCU> <!-- because fuck this PCU shit -->
+      <PCU>500</PCU> <!-- because fuck this PCU shit -->
       <IsAirTight>false</IsAirTight>      
       <AiEnabled>true</AiEnabled>
     </Definition>
@@ -82,7 +82,7 @@
         <TypeId>LargeMissileTurret</TypeId>
         <SubtypeId>300mmAutoCannon_2</SubtypeId>
       </Id>
-      <DisplayName>"2x300mm" Auto Cannon</DisplayName>
+      <DisplayName>"2x300mm"自动加农炮</DisplayName>
       <Icon>Textures\GUI\2x300mm_AutoCannon.dds</Icon>
       <Description />
       <CubeSize>Large</CubeSize>
@@ -145,7 +145,7 @@
       <MaxFov>1.04719755</MaxFov>
       <DestroyEffect>BlockDestroyedExplosion_Large</DestroyEffect>
       <DestroySound>WepSmallWarheadExpl</DestroySound>
-      <PCU>1</PCU> <!-- Did I say 'fuck PCU'? I meant Fuck PCU. -->
+      <PCU>1000</PCU> <!-- Did I say 'fuck PCU'? I meant Fuck PCU. -->
       <IsAirTight>false</IsAirTight>  
       <AiEnabled>true</AiEnabled>
     </Definition>
@@ -158,7 +158,7 @@
         <TypeId>LargeMissileTurret</TypeId>
         <SubtypeId>300mmAutoCannon_3</SubtypeId>
       </Id>
-      <DisplayName>"3x300mm" Auto Cannon</DisplayName>
+      <DisplayName>"3x300mm"自动加农炮</DisplayName>
       <Icon>Textures\GUI\3x300mm_AutoCannon.dds</Icon>
       <Description />
       <CubeSize>Large</CubeSize>
@@ -221,7 +221,7 @@
       <MaxFov>1.04719755</MaxFov>
       <DestroyEffect>BlockDestroyedExplosion_Large</DestroyEffect>
       <DestroySound>WepSmallWarheadExpl</DestroySound>
-      <PCU>1</PCU> <!-- I remember when they said there were no limits -->
+      <PCU>1500</PCU> <!-- I remember when they said there were no limits -->
       <IsAirTight>false</IsAirTight>
       <AiEnabled>true</AiEnabled>
     </Definition>
@@ -254,7 +254,7 @@
         <TypeId>LargeMissileTurret</TypeId>
         <SubtypeId>300mmAutoCannon_1_small</SubtypeId>
       </Id>
-      <DisplayName>"300mm" Auto Cannon</DisplayName>
+      <DisplayName>"300mm"自动加农炮</DisplayName>
       <Icon>Textures\GUI\300mm_AutoCannon.dds</Icon>
       <Description />
       <CubeSize>Small</CubeSize>
@@ -318,7 +318,7 @@
       <MaxFov>1.04719755</MaxFov>
       <DestroyEffect>BlockDestroyedExplosion_Large</DestroyEffect>
       <DestroySound>WepSmallWarheadExpl</DestroySound>
-      <PCU>1</PCU> <!-- we were supposed to be able to build 1:1 star destroyers -->
+      <PCU>500</PCU> <!-- we were supposed to be able to build 1:1 star destroyers -->
       <IsAirTight>false</IsAirTight>
       <AiEnabled>true</AiEnabled>
     </Definition>
@@ -331,7 +331,7 @@
         <TypeId>LargeMissileTurret</TypeId>
         <SubtypeId>300mmAutoCannon_2_small</SubtypeId>
       </Id>
-      <DisplayName>"2x300mm" Auto Cannon</DisplayName>
+      <DisplayName>"2x300mm"自动加农炮</DisplayName>
       <Icon>Textures\GUI\2x300mm_AutoCannon.dds</Icon>
       <Description />
       <CubeSize>Small</CubeSize>
@@ -395,7 +395,7 @@
       <MaxFov>1.04719755</MaxFov>
       <DestroyEffect>BlockDestroyedExplosion_Large</DestroyEffect>
       <DestroySound>WepSmallWarheadExpl</DestroySound>
-      <PCU>1</PCU> <!-- without the game running at the speed of mashed potatoes -->
+      <PCU>1000</PCU> <!-- without the game running at the speed of mashed potatoes -->
       <IsAirTight>false</IsAirTight>
       <AiEnabled>true</AiEnabled>
     </Definition>
@@ -407,7 +407,7 @@
         <TypeId>LargeMissileTurret</TypeId>
         <SubtypeId>300mmAutoCannon_3_small</SubtypeId>
       </Id>
-      <DisplayName>"3x300mm" Auto Cannon</DisplayName>
+      <DisplayName>"3x300mm"自动加农炮</DisplayName>
       <Icon>Textures\GUI\3x300mm_AutoCannon.dds</Icon>
       <Description />
       <CubeSize>Small</CubeSize>
@@ -471,7 +471,7 @@
       <MaxFov>1.04719755</MaxFov>
       <DestroyEffect>BlockDestroyedExplosion_Large</DestroyEffect>
       <DestroySound>WepSmallWarheadExpl</DestroySound>
-      <PCU>1</PCU> <!-- but oh well -->
+      <PCU>1500</PCU> <!-- but oh well -->
       <IsAirTight>false</IsAirTight>
       <AiEnabled>true</AiEnabled>
     </Definition>

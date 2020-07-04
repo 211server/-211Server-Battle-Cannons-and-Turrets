@@ -7,7 +7,7 @@
         <TypeId>LargeMissileTurret</TypeId>
         <SubtypeId>Side900Cannon</SubtypeId>
       </Id>
-      <DisplayName>"900mm" Side Cannon</DisplayName>
+      <DisplayName>"900mm"侧面加农炮</DisplayName>
       <Icon>Textures\GUI\SideCannon.dds</Icon>
       <Description />
       <CubeSize>Large</CubeSize>
@@ -75,7 +75,7 @@
       <MaxFov>1.04719755</MaxFov>
       <DestroyEffect>BlockDestroyedExplosion_Large</DestroyEffect>
       <DestroySound>WepSmallWarheadExpl</DestroySound>
-      <PCU>1</PCU>
+      <PCU>600</PCU>
       <IsAirTight>false</IsAirTight>
     </Definition>
 

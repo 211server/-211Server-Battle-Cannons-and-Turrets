@@ -7,7 +7,7 @@
         <TypeId>LargeMissileTurret</TypeId>
         <SubtypeId>SentryMissileTurret</SubtypeId>
       </Id>
-      <DisplayName>Missile Sentry</DisplayName>
+      <DisplayName>哨戒导弹</DisplayName>
       <Icon>Textures\GUI\SentryMissile.dds</Icon>
       <CubeSize>Small</CubeSize>
       <BlockTopology>TriangleMesh</BlockTopology>
@@ -51,6 +51,7 @@
       <MaxRangeMeters>800</MaxRangeMeters>
       <RotationSpeed>0.002</RotationSpeed>
       <ElevationSpeed>0.002</ElevationSpeed>
+      <PCU>75</PCU>
     </Definition>
     
 

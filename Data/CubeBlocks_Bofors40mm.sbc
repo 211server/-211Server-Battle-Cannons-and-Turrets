@@ -7,7 +7,7 @@
         <TypeId>LargeMissileTurret</TypeId>
         <SubtypeId>40mmBofors</SubtypeId>
       </Id>
-      <DisplayName>"40mm" Bofors</DisplayName>
+      <DisplayName>"40mm"博福斯高射炮</DisplayName>
       <Icon>Textures\GUI\Bofors40mm.dds</Icon>
       <Description />
       <CubeSize>Large</CubeSize>
@@ -71,7 +71,7 @@
       <MaxFov>1.04719755</MaxFov>
       <DestroyEffect>BlockDestroyedExplosion_Large</DestroyEffect>
       <DestroySound>WepSmallWarheadExpl</DestroySound>
-      <PCU>1</PCU>
+      <PCU>375</PCU>
       <IsAirTight>false</IsAirTight>
       <AiEnabled>true</AiEnabled>
     </Definition>
@@ -82,7 +82,7 @@
         <TypeId>LargeMissileTurret</TypeId>
         <SubtypeId>40mmBofors_small</SubtypeId>
       </Id>
-      <DisplayName>"40mm" Bofors</DisplayName>
+      <DisplayName>"40mm"博福斯高射炮</DisplayName>
       <Icon>Textures\GUI\Bofors40mm.dds</Icon>
       <Description />
       <CubeSize>Small</CubeSize>
@@ -147,7 +147,7 @@
       <MaxFov>1.04719755</MaxFov>
       <DestroyEffect>BlockDestroyedExplosion_Large</DestroyEffect>
       <DestroySound>WepSmallWarheadExpl</DestroySound>
-      <PCU>1</PCU>
+      <PCU>375</PCU>
       <IsAirTight>false</IsAirTight>
       <AiEnabled>true</AiEnabled>
     </Definition>

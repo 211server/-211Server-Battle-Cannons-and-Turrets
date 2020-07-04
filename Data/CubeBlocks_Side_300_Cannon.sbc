@@ -7,7 +7,7 @@
         <TypeId>LargeMissileTurret</TypeId>
         <SubtypeId>Side300Cannon</SubtypeId>
       </Id>
-      <DisplayName>"300mm" Side Cannon</DisplayName>
+      <DisplayName>"300mm"侧面加农炮</DisplayName>
       <Icon>Textures\GUI\SideCannon.dds</Icon>
       <Description />
       <CubeSize>Large</CubeSize>
@@ -75,7 +75,7 @@
       <MaxFov>1.04719755</MaxFov>
       <DestroyEffect>BlockDestroyedExplosion_Large</DestroyEffect>
       <DestroySound>WepSmallWarheadExpl</DestroySound>
-      <PCU>1</PCU>
+      <PCU>300</PCU>
       <IsAirTight>false</IsAirTight>
     </Definition>
 
@@ -85,7 +85,7 @@
         <TypeId>LargeMissileTurret</TypeId>
         <SubtypeId>Side300Cannonsmall</SubtypeId>
       </Id>
-      <DisplayName>"300mm" Side Cannon</DisplayName>
+      <DisplayName>"300mm"侧面加农炮</DisplayName>
       <Icon>Textures\GUI\SideCannon.dds</Icon>
       <Description />
       <CubeSize>Small</CubeSize>
@@ -153,7 +153,7 @@
       <MaxFov>1.04719755</MaxFov>
       <DestroyEffect>BlockDestroyedExplosion_Large</DestroyEffect>
       <DestroySound>WepSmallWarheadExpl</DestroySound>
-      <PCU>1</PCU>
+      <PCU>125</PCU>
       <IsAirTight>false</IsAirTight>
     </Definition>
 
