@@ -145,7 +145,7 @@
       <MaxFov>1.04719755</MaxFov>
       <DestroyEffect>BlockDestroyedExplosion_Large</DestroyEffect>
       <DestroySound>WepSmallWarheadExpl</DestroySound>
-      <PCU>1000</PCU> <!-- Did I say 'fuck PCU'? I meant Fuck PCU. -->
+      <PCU>900</PCU> <!-- Did I say 'fuck PCU'? I meant Fuck PCU. -->
       <IsAirTight>false</IsAirTight>  
       <AiEnabled>true</AiEnabled>
     </Definition>
@@ -221,7 +221,7 @@
       <MaxFov>1.04719755</MaxFov>
       <DestroyEffect>BlockDestroyedExplosion_Large</DestroyEffect>
       <DestroySound>WepSmallWarheadExpl</DestroySound>
-      <PCU>1500</PCU> <!-- I remember when they said there were no limits -->
+      <PCU>1200</PCU> <!-- I remember when they said there were no limits -->
       <IsAirTight>false</IsAirTight>
       <AiEnabled>true</AiEnabled>
     </Definition>
@@ -395,7 +395,7 @@
       <MaxFov>1.04719755</MaxFov>
       <DestroyEffect>BlockDestroyedExplosion_Large</DestroyEffect>
       <DestroySound>WepSmallWarheadExpl</DestroySound>
-      <PCU>1000</PCU> <!-- without the game running at the speed of mashed potatoes -->
+      <PCU>900</PCU> <!-- without the game running at the speed of mashed potatoes -->
       <IsAirTight>false</IsAirTight>
       <AiEnabled>true</AiEnabled>
     </Definition>
@@ -471,7 +471,7 @@
       <MaxFov>1.04719755</MaxFov>
       <DestroyEffect>BlockDestroyedExplosion_Large</DestroyEffect>
       <DestroySound>WepSmallWarheadExpl</DestroySound>
-      <PCU>1500</PCU> <!-- but oh well -->
+      <PCU>1200</PCU> <!-- but oh well -->
       <IsAirTight>false</IsAirTight>
       <AiEnabled>true</AiEnabled>
     </Definition>

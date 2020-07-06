@@ -52,7 +52,7 @@
       <MaxRangeMeters>3000</MaxRangeMeters>
       <DestroyEffect>BlockDestroyedExplosion_Small</DestroyEffect>
       <DestroySound>WepSmallWarheadExpl</DestroySound>
-      <PCU>15000</PCU>
+      <PCU>6000</PCU>
     </Definition>
 
 
@@ -107,7 +107,7 @@
       <DamagedSound>ParticleWeapExpl</DamagedSound>
       <DestroyEffect>BlockDestroyedExplosion_Small</DestroyEffect>
       <DestroySound>WepSmallWarheadExpl</DestroySound>
-      <PCU>50000</PCU>
+      <PCU>30000</PCU>
     </Definition>
 
 
@@ -174,7 +174,7 @@
       <DamagedSound>ParticleWeapExpl</DamagedSound>
       <DestroyEffect>BlockDestroyedExplosion_Small</DestroyEffect>
       <DestroySound>WepSmallWarheadExpl</DestroySound>
-      <PCU>15000</PCU>
+      <PCU>6000</PCU>
     </Definition>
 
 

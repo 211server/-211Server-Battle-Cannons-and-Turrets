@@ -148,7 +148,7 @@
       <MaxFov>1.04719755</MaxFov>
       <DestroyEffect>BlockDestroyedExplosion_Large</DestroyEffect>
       <DestroySound>WepSmallWarheadExpl</DestroySound>
-      <PCU>2000</PCU>
+      <PCU>1800</PCU>
       <IsAirTight>false</IsAirTight>
       <AiEnabled>true</AiEnabled>
     </Definition>
@@ -224,7 +224,7 @@
       <MaxFov>1.04719755</MaxFov>
       <DestroyEffect>BlockDestroyedExplosion_Large</DestroyEffect>
       <DestroySound>WepSmallWarheadExpl</DestroySound>
-      <PCU>3000</PCU>
+      <PCU>2100</PCU>
       <IsAirTight>false</IsAirTight>
       <AiEnabled>true</AiEnabled>
     </Definition>
