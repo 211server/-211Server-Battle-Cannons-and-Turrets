@@ -7,4 +7,5 @@ Original mod: https://steamcommunity.com/sharedfiles/filedetails/?id=1139824606
 
 # What modified
 * PCU of all weapon
+* remove duplicate category
 * Chinese localization
