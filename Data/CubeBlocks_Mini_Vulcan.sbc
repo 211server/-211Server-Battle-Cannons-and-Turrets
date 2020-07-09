@@ -9,7 +9,7 @@
         <TypeId>LargeGatlingTurret</TypeId>
         <SubtypeId>MiniVulcan</SubtypeId>
       </Id>
-      <DisplayName>"M61"迷你火神机炮</DisplayName>
+      <DisplayName>M61 迷你火神机炮</DisplayName>
       <Icon>Textures\GUI\SentryVulcanGatling.dds</Icon>
       <Description />
       <CubeSize>Small</CubeSize>

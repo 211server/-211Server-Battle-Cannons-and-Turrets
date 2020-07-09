@@ -7,7 +7,7 @@
         <TypeId>LargeGatlingTurret</TypeId>
         <SubtypeId>SmallSentryGun</SubtypeId>
       </Id>
-      <DisplayName>"5p56mm"哨戒机枪</DisplayName>
+      <DisplayName>5p56mm 哨戒机枪</DisplayName>
       <Icon>Textures\GUI\SentryGun.dds</Icon>
       <Description />
       <CubeSize>Small</CubeSize>

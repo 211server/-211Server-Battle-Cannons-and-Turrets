@@ -7,7 +7,7 @@
         <TypeId>LargeMissileTurret</TypeId>
         <SubtypeId>900mmAutoCannon_1</SubtypeId>
       </Id>
-      <DisplayName>"900mm"自动加农炮</DisplayName>
+      <DisplayName>900mm自动加农炮</DisplayName>
       <Icon>Textures\GUI\900mm_AutoCannon.dds</Icon>
       <Description />
       <CubeSize>Large</CubeSize>
@@ -84,7 +84,7 @@
         <TypeId>LargeMissileTurret</TypeId>
         <SubtypeId>900mmAutoCannon_2</SubtypeId>
       </Id>
-      <DisplayName>"2x900mm"自动加农炮</DisplayName>
+      <DisplayName>双联装900mm自动加农炮</DisplayName>
       <Icon>Textures\GUI\2x300mm_AutoCannon.dds</Icon>
       <Description />
       <CubeSize>Large</CubeSize>
@@ -160,7 +160,7 @@
         <TypeId>LargeMissileTurret</TypeId>
         <SubtypeId>900mmAutoCannon_3</SubtypeId>
       </Id>
-      <DisplayName>"3x900mm"自动加农炮</DisplayName>
+      <DisplayName>三联装900mm自动加农炮</DisplayName>
       <Icon>Textures\GUI\3x300mm_AutoCannon.dds</Icon>
       <Description />
       <CubeSize>Large</CubeSize>

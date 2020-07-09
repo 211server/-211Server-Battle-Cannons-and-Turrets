@@ -7,7 +7,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>300mmShell_HE</SubtypeId>
       </Id>
-      <DisplayName>"300mm"高爆弹</DisplayName>
+      <DisplayName>300mm 高爆弹</DisplayName>
       <Icon>Textures\GUI\300mmShell_HE.dds</Icon>
       <Prerequisites>
         <Item Amount="200" TypeId="Ingot" SubtypeId="Iron" />
@@ -24,7 +24,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>900mmShell_HE</SubtypeId>
       </Id>
-      <DisplayName>"900mm"高爆弹</DisplayName>
+      <DisplayName>900mm 高爆弹</DisplayName>
       <Icon>Textures\GUI\300mmShell_HE.dds</Icon>
       <Prerequisites>
         <Item Amount="400" TypeId="Ingot" SubtypeId="Iron" />
@@ -39,7 +39,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>300mmShell_AP</SubtypeId>
       </Id>
-      <DisplayName>"300mm"穿甲弹</DisplayName>
+      <DisplayName>300mm 穿甲弹</DisplayName>
       <Icon>Textures\GUI\300mmShell_AP.dds</Icon>
       <Prerequisites>
         <Item Amount="200" TypeId="Ingot" SubtypeId="Iron" />
@@ -56,7 +56,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>900mmShell_AP</SubtypeId>
       </Id>
-      <DisplayName>"900mm"穿甲弹</DisplayName>
+      <DisplayName>900mm 穿甲弹</DisplayName>
       <Icon>Textures\GUI\300mmShell_AP.dds</Icon>
       <Prerequisites>
         <Item Amount="400" TypeId="Ingot" SubtypeId="Iron" />
@@ -72,7 +72,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Vulcan20x102</SubtypeId>
       </Id>
-      <DisplayName>"20x102mm"火神</DisplayName>
+      <DisplayName>20x102mm 火神弹链收纳箱</DisplayName>
       <Icon>Textures\GUI\GatlingAmmo20x102.dds</Icon>
       <Prerequisites>
         <Item Amount="30" TypeId="Ingot" SubtypeId="Iron" />
@@ -90,7 +90,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Bofors40mm</SubtypeId>
       </Id>
-      <DisplayName>"40mm"博福斯</DisplayName>
+      <DisplayName>博福斯 40mm 弹药</DisplayName>
       <Icon>Textures\GUI\40mmShell.dds</Icon>
       <Prerequisites>
         <Item Amount="50" TypeId="Ingot" SubtypeId="Iron" />
@@ -107,7 +107,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Aden30x113</SubtypeId>
       </Id>
-      <DisplayName>"30x113"亚丁</DisplayName>
+      <DisplayName>30x113mm 亚丁弹链收纳箱</DisplayName>
       <Icon>Textures\GUI\AdenAmmo30x113.dds</Icon>
       <Prerequisites>
         <Item Amount="40" TypeId="Ingot" SubtypeId="Iron" />

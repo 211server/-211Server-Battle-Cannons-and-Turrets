@@ -7,7 +7,7 @@
         <TypeId>LargeMissileTurret</TypeId>
         <SubtypeId>Side900Cannon</SubtypeId>
       </Id>
-      <DisplayName>"900mm"侧面加农炮</DisplayName>
+      <DisplayName>900mm 侧面加农炮</DisplayName>
       <Icon>Textures\GUI\SideCannon.dds</Icon>
       <Description />
       <CubeSize>Large</CubeSize>

@@ -7,7 +7,7 @@
         <TypeId>LargeGatlingTurret</TypeId>
         <SubtypeId>LargeVulcan</SubtypeId>
       </Id>
-      <DisplayName>"M61"火神机枪</DisplayName>
+      <DisplayName>M61 火神机枪</DisplayName>
       <Icon>Textures\GUI\GatlingTurret.dds</Icon>
       <Description />
       <CubeSize>Large</CubeSize>
@@ -84,7 +84,7 @@
         <TypeId>LargeGatlingTurret</TypeId>
         <SubtypeId>SmallVulcan</SubtypeId>
       </Id>
-      <DisplayName>"M61"火神机枪</DisplayName>
+      <DisplayName>M61 火神机枪</DisplayName>
       <Icon>Textures\GUI\GatlingTurret.dds</Icon>
       <Description />
       <CubeSize>Small</CubeSize>

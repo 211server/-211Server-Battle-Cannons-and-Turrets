@@ -7,7 +7,7 @@
         <TypeId>LargeGatlingTurret</TypeId>
         <SubtypeId>LargeAden</SubtypeId>
       </Id>
-      <DisplayName>"30mm"亚丁转膛机炮</DisplayName>
+      <DisplayName>30mm亚丁转膛机炮</DisplayName>
       <Icon>Textures\GUI\AdenTurret.dds</Icon>
       <Description />
       <CubeSize>Large</CubeSize>
@@ -83,7 +83,7 @@
         <TypeId>LargeGatlingTurret</TypeId>
         <SubtypeId>SmallAden</SubtypeId>
       </Id>
-      <DisplayName>"30mm"亚丁转膛机炮</DisplayName>
+      <DisplayName>30mm亚丁转膛机炮</DisplayName>
       <Icon>Textures\GUI\AdenTurret.dds</Icon>
       <Description />
       <CubeSize>Small</CubeSize>

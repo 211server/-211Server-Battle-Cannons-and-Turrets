@@ -7,7 +7,7 @@
         <TypeId>LargeMissileTurret</TypeId>
         <SubtypeId>SentryMissileTurret</SubtypeId>
       </Id>
-      <DisplayName>哨戒导弹</DisplayName>
+      <DisplayName>哨戒飞弹</DisplayName>
       <Icon>Textures\GUI\SentryMissile.dds</Icon>
       <CubeSize>Small</CubeSize>
       <BlockTopology>TriangleMesh</BlockTopology>

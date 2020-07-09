@@ -7,7 +7,7 @@
         <TypeId>LargeMissileTurret</TypeId>
         <SubtypeId>Side300Cannon</SubtypeId>
       </Id>
-      <DisplayName>"300mm"侧面加农炮</DisplayName>
+      <DisplayName>300mm 侧面加农炮</DisplayName>
       <Icon>Textures\GUI\SideCannon.dds</Icon>
       <Description />
       <CubeSize>Large</CubeSize>
@@ -85,7 +85,7 @@
         <TypeId>LargeMissileTurret</TypeId>
         <SubtypeId>Side300Cannonsmall</SubtypeId>
       </Id>
-      <DisplayName>"300mm"侧面加农炮</DisplayName>
+      <DisplayName>300mm 侧面加农炮</DisplayName>
       <Icon>Textures\GUI\SideCannon.dds</Icon>
       <Description />
       <CubeSize>Small</CubeSize>

@@ -7,7 +7,7 @@
         <TypeId>AmmoMagazine</TypeId>
         <SubtypeId>Vulcan20x102</SubtypeId>
       </Id>
-      <DisplayName>"20x102mm"火神</DisplayName>
+      <DisplayName>20x102mm 火神弹链收纳箱</DisplayName>
       <Icon>Textures\GUI\GatlingAmmo20x102.dds</Icon>
       <Size>
         <X>0.25</X>

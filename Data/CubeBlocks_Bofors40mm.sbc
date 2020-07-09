@@ -7,7 +7,7 @@
         <TypeId>LargeMissileTurret</TypeId>
         <SubtypeId>40mmBofors</SubtypeId>
       </Id>
-      <DisplayName>"40mm"博福斯高射炮</DisplayName>
+      <DisplayName>博福斯 40mm 高射炮</DisplayName>
       <Icon>Textures\GUI\Bofors40mm.dds</Icon>
       <Description />
       <CubeSize>Large</CubeSize>
@@ -82,7 +82,7 @@
         <TypeId>LargeMissileTurret</TypeId>
         <SubtypeId>40mmBofors_small</SubtypeId>
       </Id>
-      <DisplayName>"40mm"博福斯高射炮</DisplayName>
+      <DisplayName>博福斯 40mm 高射炮</DisplayName>
       <Icon>Textures\GUI\Bofors40mm.dds</Icon>
       <Description />
       <CubeSize>Small</CubeSize>

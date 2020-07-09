@@ -7,7 +7,7 @@
         <TypeId>AmmoMagazine</TypeId>
         <SubtypeId>Aden30x113</SubtypeId>
       </Id>
-      <DisplayName>"30x113"亚丁</DisplayName>
+      <DisplayName>30x113mm 亚丁弹链收纳箱</DisplayName>
       <Icon>Textures\GUI\AdenAmmo30x113.dds</Icon>
       <Size>
         <X>0.25</X>
