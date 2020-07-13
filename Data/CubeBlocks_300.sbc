@@ -6,7 +6,7 @@
                 <TypeId>LargeMissileTurret</TypeId>
                 <SubtypeId>300mmAutoCannon_1</SubtypeId>
             </Id>
-            <DisplayName>300mm自动加农炮</DisplayName>
+            <DisplayName>300mm 自动加农炮</DisplayName>
             <Icon>Textures\GUI\300mm_AutoCannon.dds</Icon>
             <Description/>
             <CubeSize>Large</CubeSize>
@@ -79,7 +79,7 @@
                 <TypeId>LargeMissileTurret</TypeId>
                 <SubtypeId>300mmAutoCannon_2</SubtypeId>
             </Id>
-            <DisplayName>双联装300mm自动加农炮</DisplayName>
+            <DisplayName>双联装 300mm 自动加农炮</DisplayName>
             <Icon>Textures\GUI\2x300mm_AutoCannon.dds</Icon>
             <Description/>
             <CubeSize>Large</CubeSize>
@@ -152,7 +152,7 @@
                 <TypeId>LargeMissileTurret</TypeId>
                 <SubtypeId>300mmAutoCannon_3</SubtypeId>
             </Id>
-            <DisplayName>三联装300mm自动加农炮</DisplayName>
+            <DisplayName>三联装 300mm 自动加农炮</DisplayName>
             <Icon>Textures\GUI\3x300mm_AutoCannon.dds</Icon>
             <Description/>
             <CubeSize>Large</CubeSize>
@@ -225,7 +225,7 @@
                 <TypeId>LargeMissileTurret</TypeId>
                 <SubtypeId>300mmAutoCannon_1_small</SubtypeId>
             </Id>
-            <DisplayName>300mm自动加农炮</DisplayName>
+            <DisplayName>300mm 自动加农炮</DisplayName>
             <Icon>Textures\GUI\300mm_AutoCannon.dds</Icon>
             <Description/>
             <CubeSize>Small</CubeSize>
@@ -299,7 +299,7 @@
                 <TypeId>LargeMissileTurret</TypeId>
                 <SubtypeId>300mmAutoCannon_2_small</SubtypeId>
             </Id>
-            <DisplayName>双联装300mm自动加农炮</DisplayName>
+            <DisplayName>双联装 300mm 自动加农炮</DisplayName>
             <Icon>Textures\GUI\2x300mm_AutoCannon.dds</Icon>
             <Description/>
             <CubeSize>Small</CubeSize>
@@ -373,7 +373,7 @@
                 <TypeId>LargeMissileTurret</TypeId>
                 <SubtypeId>300mmAutoCannon_3_small</SubtypeId>
             </Id>
-            <DisplayName>三联装300mm自动加农炮</DisplayName>
+            <DisplayName>三联装 300mm 自动加农炮</DisplayName>
             <Icon>Textures\GUI\3x300mm_AutoCannon.dds</Icon>
             <Description/>
             <CubeSize>Small</CubeSize>
