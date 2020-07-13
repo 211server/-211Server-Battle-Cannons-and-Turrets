@@ -1,31 +1,28 @@
 <?xml version="1.0"?>
 <Definitions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Ammos>
-    
-
- <Ammo xsi:type="MyObjectBuilder_MissileAmmoDefinition">
-      <Id>
-        <TypeId>AmmoDefinition</TypeId>
-        <SubtypeId>Bofors40mm</SubtypeId>
-      </Id>
-      <BasicProperties>
-        <DesiredSpeed>400</DesiredSpeed>
-        <SpeedVariance>0</SpeedVariance>
-        <MaxTrajectory>3000</MaxTrajectory>
-        <IsExplosive>true</IsExplosive>
-        <BackkickForce>500</BackkickForce>
-        <PhysicalMaterial>Missile</PhysicalMaterial>
-      </BasicProperties>
-      <MissileProperties>
-	<MissileMass>3</MissileMass>
-	<MissileExplosionRadius>2</MissileExplosionRadius>
-	<MissileModelName>Models\Weapons\40mmTrace.mwm</MissileModelName>
-	<MissileAcceleration>600</MissileAcceleration>
-	<MissileInitialSpeed>400</MissileInitialSpeed>
-	<MissileSkipAcceleration>true</MissileSkipAcceleration>
-	<MissileExplosionDamage>800</MissileExplosionDamage>
-	</MissileProperties>
-  </Ammo>
-  
-  </Ammos>
+    <Ammos>
+        <Ammo xsi:type="MyObjectBuilder_MissileAmmoDefinition">
+            <Id>
+                <TypeId>AmmoDefinition</TypeId>
+                <SubtypeId>Bofors40mm</SubtypeId>
+            </Id>
+            <BasicProperties>
+                <DesiredSpeed>400</DesiredSpeed>
+                <SpeedVariance>0</SpeedVariance>
+                <MaxTrajectory>3000</MaxTrajectory>
+                <IsExplosive>true</IsExplosive>
+                <BackkickForce>500</BackkickForce>
+                <PhysicalMaterial>Missile</PhysicalMaterial>
+            </BasicProperties>
+            <MissileProperties>
+                <MissileMass>3</MissileMass>
+                <MissileExplosionRadius>2</MissileExplosionRadius>
+                <MissileModelName>Models\Weapons\40mmTrace.mwm</MissileModelName>
+                <MissileAcceleration>600</MissileAcceleration>
+                <MissileInitialSpeed>400</MissileInitialSpeed>
+                <MissileSkipAcceleration>true</MissileSkipAcceleration>
+                <MissileExplosionDamage>800</MissileExplosionDamage>
+            </MissileProperties>
+        </Ammo>
+    </Ammos>
 </Definitions>

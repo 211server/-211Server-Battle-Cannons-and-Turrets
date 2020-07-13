@@ -1,112 +1,100 @@
 <?xml version="1.0"?>
 <Definitions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Ammos>
+    <Ammos>
+        <Ammo xsi:type="MyObjectBuilder_MissileAmmoDefinition">
+            <Id>
+                <TypeId>AmmoDefinition</TypeId>
+                <SubtypeId>300mmShell_HE</SubtypeId>
+            </Id>
+            <BasicProperties>
+                <DesiredSpeed>400</DesiredSpeed>
+                <SpeedVariance>0</SpeedVariance>
+                <MaxTrajectory>5000</MaxTrajectory>
+                <IsExplosive>true</IsExplosive>
+                <BackkickForce>1000</BackkickForce>
+                <PhysicalMaterial>Missile</PhysicalMaterial>
+            </BasicProperties>
+            <MissileProperties>
+                <MissileMass>300</MissileMass>
+                <MissileExplosionRadius>4</MissileExplosionRadius>
+                <MissileModelName>Models\Weapons\300mmTrace.mwm</MissileModelName>
+                <MissileAcceleration>600</MissileAcceleration>
+                <MissileInitialSpeed>400</MissileInitialSpeed>
+                <MissileSkipAcceleration>true</MissileSkipAcceleration>
+                <MissileExplosionDamage>30000</MissileExplosionDamage>
+            </MissileProperties>
+        </Ammo>
 
+        <Ammo xsi:type="MyObjectBuilder_MissileAmmoDefinition">
+            <Id>
+                <TypeId>AmmoDefinition</TypeId>
+                <SubtypeId>900mmShell_HE</SubtypeId>
+            </Id>
+            <BasicProperties>
+                <DesiredSpeed>400</DesiredSpeed>
+                <SpeedVariance>0</SpeedVariance>
+                <MaxTrajectory>5000</MaxTrajectory>
+                <IsExplosive>true</IsExplosive>
+                <BackkickForce>10000</BackkickForce>
+                <PhysicalMaterial>Missile</PhysicalMaterial>
+            </BasicProperties>
+            <MissileProperties>
+                <MissileMass>1000</MissileMass>
+                <MissileExplosionRadius>7</MissileExplosionRadius>
+                <MissileModelName>Models\Weapons\900mmTrace.mwm</MissileModelName>
+                <MissileAcceleration>600</MissileAcceleration>
+                <MissileInitialSpeed>400</MissileInitialSpeed>
+                <MissileSkipAcceleration>true</MissileSkipAcceleration>
+                <MissileExplosionDamage>60000</MissileExplosionDamage>
+            </MissileProperties>
+        </Ammo>
 
- <Ammo xsi:type="MyObjectBuilder_MissileAmmoDefinition">
-      <Id>
-        <TypeId>AmmoDefinition</TypeId>
-        <SubtypeId>300mmShell_HE</SubtypeId>
-      </Id>
-      <BasicProperties>
-        <DesiredSpeed>400</DesiredSpeed>
-        <SpeedVariance>0</SpeedVariance>
-        <MaxTrajectory>5000</MaxTrajectory>
-        <IsExplosive>true</IsExplosive>
-        <BackkickForce>1000</BackkickForce>
-        <PhysicalMaterial>Missile</PhysicalMaterial>
-      </BasicProperties>
-      <MissileProperties>
-	<MissileMass>300</MissileMass>
-	<MissileExplosionRadius>4</MissileExplosionRadius>
-	<MissileModelName>Models\Weapons\300mmTrace.mwm</MissileModelName>
-	<MissileAcceleration>600</MissileAcceleration>
-	<MissileInitialSpeed>400</MissileInitialSpeed>
-	<MissileSkipAcceleration>true</MissileSkipAcceleration>
-	<MissileExplosionDamage>30000</MissileExplosionDamage>
-	</MissileProperties>
-    </Ammo>
+        <Ammo xsi:type="MyObjectBuilder_MissileAmmoDefinition">
+            <Id>
+                <TypeId>AmmoDefinition</TypeId>
+                <SubtypeId>300mmShell_AP</SubtypeId>
+            </Id>
+            <BasicProperties>
+                <DesiredSpeed>400</DesiredSpeed>
+                <SpeedVariance>0</SpeedVariance>
+                <MaxTrajectory>5000</MaxTrajectory>
+                <IsExplosive>true</IsExplosive>
+                <BackkickForce>1500</BackkickForce>
+                <PhysicalMaterial>Missile</PhysicalMaterial>
+            </BasicProperties>
+            <MissileProperties>
+                <MissileMass>300</MissileMass>
+                <MissileExplosionRadius>2</MissileExplosionRadius>
+                <MissileModelName>Models\Weapons\300mmTrace.mwm</MissileModelName>
+                <MissileAcceleration>600</MissileAcceleration>
+                <MissileInitialSpeed>400</MissileInitialSpeed>
+                <MissileSkipAcceleration>true</MissileSkipAcceleration>
+                <MissileExplosionDamage>70000</MissileExplosionDamage>
+            </MissileProperties>
+        </Ammo>
 
-
- <Ammo xsi:type="MyObjectBuilder_MissileAmmoDefinition">
-      <Id>
-        <TypeId>AmmoDefinition</TypeId>
-        <SubtypeId>900mmShell_HE</SubtypeId>
-      </Id>
-      <BasicProperties>
-        <DesiredSpeed>400</DesiredSpeed>
-        <SpeedVariance>0</SpeedVariance>
-        <MaxTrajectory>5000</MaxTrajectory>
-        <IsExplosive>true</IsExplosive>
-        <BackkickForce>10000</BackkickForce>
-        <PhysicalMaterial>Missile</PhysicalMaterial>
-      </BasicProperties>
-      <MissileProperties>
-	<MissileMass>1000</MissileMass>
-	<MissileExplosionRadius>7</MissileExplosionRadius>
-	<MissileModelName>Models\Weapons\900mmTrace.mwm</MissileModelName>
-	<MissileAcceleration>600</MissileAcceleration>
-	<MissileInitialSpeed>400</MissileInitialSpeed>
-	<MissileSkipAcceleration>true</MissileSkipAcceleration>
-	<MissileExplosionDamage>60000</MissileExplosionDamage>
-	</MissileProperties>
-    </Ammo>
-
-
-
-
- <Ammo xsi:type="MyObjectBuilder_MissileAmmoDefinition">
-      <Id>
-        <TypeId>AmmoDefinition</TypeId>
-        <SubtypeId>300mmShell_AP</SubtypeId>
-      </Id>
-      <BasicProperties>
-        <DesiredSpeed>400</DesiredSpeed>
-        <SpeedVariance>0</SpeedVariance>
-        <MaxTrajectory>5000</MaxTrajectory>
-        <IsExplosive>true</IsExplosive>
-        <BackkickForce>1500</BackkickForce>
-        <PhysicalMaterial>Missile</PhysicalMaterial>
-      </BasicProperties>
-      <MissileProperties>
-	<MissileMass>300</MissileMass>
-	<MissileExplosionRadius>2</MissileExplosionRadius>
-	<MissileModelName>Models\Weapons\300mmTrace.mwm</MissileModelName>
-	<MissileAcceleration>600</MissileAcceleration>
-	<MissileInitialSpeed>400</MissileInitialSpeed>
-	<MissileSkipAcceleration>true</MissileSkipAcceleration>
-	<MissileExplosionDamage>70000</MissileExplosionDamage>
-	</MissileProperties>
-    </Ammo>
-
-
- <Ammo xsi:type="MyObjectBuilder_MissileAmmoDefinition">
-      <Id>
-        <TypeId>AmmoDefinition</TypeId>
-        <SubtypeId>900mmShell_AP</SubtypeId>
-      </Id>
-      <BasicProperties>
-        <DesiredSpeed>400</DesiredSpeed>
-        <SpeedVariance>0</SpeedVariance>
-        <MaxTrajectory>5000</MaxTrajectory>
-        <IsExplosive>true</IsExplosive>
-        <BackkickForce>30000</BackkickForce>
-        <PhysicalMaterial>Missile</PhysicalMaterial>
-      </BasicProperties>
-      <MissileProperties>
-	<MissileMass>1000</MissileMass>
-	<MissileExplosionRadius>4</MissileExplosionRadius>
-	<MissileModelName>Models\Weapons\900mmTrace.mwm</MissileModelName>
-	<MissileAcceleration>600</MissileAcceleration>
-	<MissileInitialSpeed>400</MissileInitialSpeed>
-	<MissileSkipAcceleration>true</MissileSkipAcceleration>
-	<MissileExplosionDamage>150000</MissileExplosionDamage>
-	</MissileProperties>
-    </Ammo>
-
-
-
-
-
-  </Ammos>
+        <Ammo xsi:type="MyObjectBuilder_MissileAmmoDefinition">
+            <Id>
+                <TypeId>AmmoDefinition</TypeId>
+                <SubtypeId>900mmShell_AP</SubtypeId>
+            </Id>
+            <BasicProperties>
+                <DesiredSpeed>400</DesiredSpeed>
+                <SpeedVariance>0</SpeedVariance>
+                <MaxTrajectory>5000</MaxTrajectory>
+                <IsExplosive>true</IsExplosive>
+                <BackkickForce>30000</BackkickForce>
+                <PhysicalMaterial>Missile</PhysicalMaterial>
+            </BasicProperties>
+            <MissileProperties>
+                <MissileMass>1000</MissileMass>
+                <MissileExplosionRadius>4</MissileExplosionRadius>
+                <MissileModelName>Models\Weapons\900mmTrace.mwm</MissileModelName>
+                <MissileAcceleration>600</MissileAcceleration>
+                <MissileInitialSpeed>400</MissileInitialSpeed>
+                <MissileSkipAcceleration>true</MissileSkipAcceleration>
+                <MissileExplosionDamage>150000</MissileExplosionDamage>
+            </MissileProperties>
+        </Ammo>
+    </Ammos>
 </Definitions>

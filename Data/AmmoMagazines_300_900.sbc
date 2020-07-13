@@ -1,103 +1,90 @@
 <?xml version="1.0"?>
 <Definitions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <AmmoMagazines>
-
-<AmmoMagazine>
-      <Id>
-        <TypeId>AmmoMagazine</TypeId>
-        <SubtypeId>300mmShell_HE</SubtypeId>
-      </Id>
-      <DisplayName>300mm 高爆弹</DisplayName>
-      <Icon>Textures\GUI\300mmShell_HE.dds</Icon>
-      <IsExplosive>true</IsExplosive>
-      <Size>
-        <X>0.25</X>
-        <Y>0.2</Y>
-        <Z>0.2</Z>
-      </Size>
-      <Mass>35</Mass>
-      <Volume>25</Volume>
-      <Model>Models\Weapons\300mmShell.mwm</Model>
-      <PhysicalMaterial>Ammo</PhysicalMaterial>
-      <Capacity>3</Capacity>
-      <AmmoDefinitionId Subtype="300mmShell_HE" />
-      <PhysicalMaterial>Ammo</PhysicalMaterial>
-    </AmmoMagazine>
-
-
-<AmmoMagazine>
-      <Id>
-        <TypeId>AmmoMagazine</TypeId>
-        <SubtypeId>900mmShell_HE</SubtypeId>
-      </Id>
-      <DisplayName>900mm 高爆弹</DisplayName>
-      <Icon>Textures\GUI\300mmShell_HE.dds</Icon>
-      <IsExplosive>true</IsExplosive>
-      <Size>
-        <X>0.25</X>
-        <Y>0.2</Y>
-        <Z>0.4</Z>
-      </Size>
-      <Mass>210</Mass>
-      <Volume>75</Volume>
-      <Model>Models\Weapons\900mmShell.mwm</Model>
-      <PhysicalMaterial>Ammo</PhysicalMaterial>
-      <Capacity>3</Capacity>
-      <AmmoDefinitionId Subtype="900mmShell_HE" />
-      <PhysicalMaterial>Ammo</PhysicalMaterial>
-    </AmmoMagazine>
-
-
-
-
-
-
-
-
-
-<AmmoMagazine>
-      <Id>
-        <TypeId>AmmoMagazine</TypeId>
-        <SubtypeId>300mmShell_AP</SubtypeId>
-      </Id>
-      <DisplayName>300mm 穿甲弹</DisplayName>
-      <Icon>Textures\GUI\300mmShell_AP.dds</Icon>
-      <IsExplosive>true</IsExplosive>
-      <Size>
-        <X>0.25</X>
-        <Y>0.2</Y>
-        <Z>0.2</Z>
-      </Size>
-      <Mass>35</Mass>
-      <Volume>25</Volume>
-      <Model>Models\Weapons\300mmShell.mwm</Model>
-      <Capacity>3</Capacity>
-      <AmmoDefinitionId Subtype="300mmShell_AP" />
-      <PhysicalMaterial>Ammo</PhysicalMaterial>
-    </AmmoMagazine>
-
-
-<AmmoMagazine>
-      <Id>
-        <TypeId>AmmoMagazine</TypeId>
-        <SubtypeId>900mmShell_AP</SubtypeId>
-      </Id>
-      <DisplayName>900mm 穿甲弹</DisplayName>
-      <Icon>Textures\GUI\300mmShell_AP.dds</Icon>
-      <IsExplosive>true</IsExplosive>
-      <Size>
-        <X>0.25</X>
-        <Y>0.2</Y>
-        <Z>0.4</Z>
-      </Size>
-      <Mass>210</Mass>
-      <Volume>75</Volume>
-      <Model>Models\Weapons\900mmShell.mwm</Model>
-      <Capacity>3</Capacity>
-      <AmmoDefinitionId Subtype="900mmShell_AP" />
-      <PhysicalMaterial>Ammo</PhysicalMaterial>
-    </AmmoMagazine>
-
-
-  </AmmoMagazines>
+    <AmmoMagazines>
+        <AmmoMagazine>
+            <Id>
+                <TypeId>AmmoMagazine</TypeId>
+                <SubtypeId>300mmShell_HE</SubtypeId>
+            </Id>
+            <DisplayName>300mm 高爆弹</DisplayName>
+            <Icon>Textures\GUI\300mmShell_HE.dds</Icon>
+            <IsExplosive>true</IsExplosive>
+            <Size>
+                <X>0.25</X>
+                <Y>0.2</Y>
+                <Z>0.2</Z>
+            </Size>
+            <Mass>35</Mass>
+            <Volume>25</Volume>
+            <Model>Models\Weapons\300mmShell.mwm</Model>
+            <PhysicalMaterial>Ammo</PhysicalMaterial>
+            <Capacity>3</Capacity>
+            <AmmoDefinitionId Subtype="300mmShell_HE"/>
+            <PhysicalMaterial>Ammo</PhysicalMaterial>
+        </AmmoMagazine>
+        
+        <AmmoMagazine>
+            <Id>
+                <TypeId>AmmoMagazine</TypeId>
+                <SubtypeId>900mmShell_HE</SubtypeId>
+            </Id>
+            <DisplayName>900mm 高爆弹</DisplayName>
+            <Icon>Textures\GUI\300mmShell_HE.dds</Icon>
+            <IsExplosive>true</IsExplosive>
+            <Size>
+                <X>0.25</X>
+                <Y>0.2</Y>
+                <Z>0.4</Z>
+            </Size>
+            <Mass>210</Mass>
+            <Volume>75</Volume>
+            <Model>Models\Weapons\900mmShell.mwm</Model>
+            <PhysicalMaterial>Ammo</PhysicalMaterial>
+            <Capacity>3</Capacity>
+            <AmmoDefinitionId Subtype="900mmShell_HE"/>
+            <PhysicalMaterial>Ammo</PhysicalMaterial>
+        </AmmoMagazine>
+        
+        <AmmoMagazine>
+            <Id>
+                <TypeId>AmmoMagazine</TypeId>
+                <SubtypeId>300mmShell_AP</SubtypeId>
+            </Id>
+            <DisplayName>300mm 穿甲弹</DisplayName>
+            <Icon>Textures\GUI\300mmShell_AP.dds</Icon>
+            <IsExplosive>true</IsExplosive>
+            <Size>
+                <X>0.25</X>
+                <Y>0.2</Y>
+                <Z>0.2</Z>
+            </Size>
+            <Mass>35</Mass>
+            <Volume>25</Volume>
+            <Model>Models\Weapons\300mmShell.mwm</Model>
+            <Capacity>3</Capacity>
+            <AmmoDefinitionId Subtype="300mmShell_AP"/>
+            <PhysicalMaterial>Ammo</PhysicalMaterial>
+        </AmmoMagazine>
+        
+        <AmmoMagazine>
+            <Id>
+                <TypeId>AmmoMagazine</TypeId>
+                <SubtypeId>900mmShell_AP</SubtypeId>
+            </Id>
+            <DisplayName>900mm 穿甲弹</DisplayName>
+            <Icon>Textures\GUI\300mmShell_AP.dds</Icon>
+            <IsExplosive>true</IsExplosive>
+            <Size>
+                <X>0.25</X>
+                <Y>0.2</Y>
+                <Z>0.4</Z>
+            </Size>
+            <Mass>210</Mass>
+            <Volume>75</Volume>
+            <Model>Models\Weapons\900mmShell.mwm</Model>
+            <Capacity>3</Capacity>
+            <AmmoDefinitionId Subtype="900mmShell_AP"/>
+            <PhysicalMaterial>Ammo</PhysicalMaterial>
+        </AmmoMagazine>
+    </AmmoMagazines>
 </Definitions>
