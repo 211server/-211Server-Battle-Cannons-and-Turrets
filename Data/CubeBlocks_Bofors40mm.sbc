@@ -7,6 +7,7 @@
                 <SubtypeId>40mmBofors</SubtypeId>
             </Id>
             <DisplayName>博福斯 40mm 高射炮</DisplayName>
+            <Description>高威力副炮, 用于填补主炮开火间隙造成的火力空白</Description>
             <Icon>Textures\GUI\Bofors40mm.dds</Icon>
             <Description/>
             <CubeSize>Large</CubeSize>
@@ -81,6 +82,7 @@
                 <SubtypeId>40mmBofors_small</SubtypeId>
             </Id>
             <DisplayName>博福斯 40mm 高射炮</DisplayName>
+            <Description>高威力副炮, 用于填补主炮开火间隙造成的火力空白</Description>
             <Icon>Textures\GUI\Bofors40mm.dds</Icon>
             <Description/>
             <CubeSize>Small</CubeSize>

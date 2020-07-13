@@ -7,6 +7,7 @@
                 <SubtypeId>SmallSentryGatling</SubtypeId>
             </Id>
             <DisplayName>25mm 哨戒加特林</DisplayName>
+            <Description>玩具枪</Description>
             <Icon>Textures\GUI\SentryGatling.dds</Icon>
             <Description/>
             <CubeSize>Small</CubeSize>

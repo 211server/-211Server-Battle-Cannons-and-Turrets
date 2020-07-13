@@ -7,6 +7,7 @@
                 <SubtypeId>900mmAutoCannon_1</SubtypeId>
             </Id>
             <DisplayName>900mm 自动加农炮</DisplayName>
+            <Description>旗舰主炮</Description>
             <Icon>Textures\GUI\900mm_AutoCannon.dds</Icon>
             <Description/>
             <CubeSize>Large</CubeSize>
@@ -81,6 +82,7 @@
                 <SubtypeId>900mmAutoCannon_2</SubtypeId>
             </Id>
             <DisplayName>双联装 900mm 自动加农炮</DisplayName>
+            <Description>旗舰主炮</Description>
             <Icon>Textures\GUI\2x300mm_AutoCannon.dds</Icon>
             <Description/>
             <CubeSize>Large</CubeSize>
@@ -155,6 +157,7 @@
                 <SubtypeId>900mmAutoCannon_3</SubtypeId>
             </Id>
             <DisplayName>三联装 900mm 自动加农炮</DisplayName>
+            <Description>旗舰主炮</Description>
             <Icon>Textures\GUI\3x300mm_AutoCannon.dds</Icon>
             <Description/>
             <CubeSize>Large</CubeSize>

@@ -48,8 +48,6 @@
                 <string>LargeMissileTurret/SentryMissileTurret</string>
 
                 <string>LargeMissileTurret/Side300Cannonsmall</string>
-
-                <string>SmallMissileLauncher/LittleDavidSmall</string>
             </ItemIds>
         </Category>
     </CategoryClasses>

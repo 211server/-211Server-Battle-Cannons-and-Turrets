@@ -7,6 +7,7 @@
                 <SubtypeId>Side300Cannon</SubtypeId>
             </Id>
             <DisplayName>300mm 侧面加农炮</DisplayName>
+            <Description>旗舰主炮</Description>
             <Icon>Textures\GUI\SideCannon.dds</Icon>
             <Description/>
             <CubeSize>Large</CubeSize>
@@ -84,6 +85,7 @@
                 <SubtypeId>Side300Cannonsmall</SubtypeId>
             </Id>
             <DisplayName>300mm 侧面加农炮</DisplayName>
+            <Description>旗舰主炮</Description>
             <Icon>Textures\GUI\SideCannon.dds</Icon>
             <Description/>
             <CubeSize>Small</CubeSize>

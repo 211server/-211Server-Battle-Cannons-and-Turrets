@@ -7,6 +7,7 @@
                 <SubtypeId>LittleDavid</SubtypeId>
             </Id>
             <DisplayName>小大卫超大口径迫击炮</DisplayName>
+            <Description>长程狙击武器, 射程可达 2000m</Description>
             <Icon>Textures\GUI\Little_David.dds</Icon>
             <Description/>
             <CubeSize>Large</CubeSize>
@@ -48,7 +49,7 @@
             <InventoryMaxVolume>1</InventoryMaxVolume>
             <DamageEffectName>Damage_WeapExpl_Damaged</DamageEffectName>
             <DamagedSound>ParticleWeapExpl</DamagedSound>
-            <MaxRangeMeters>3000</MaxRangeMeters>
+            <MaxRangeMeters>2000</MaxRangeMeters>
             <DestroyEffect>BlockDestroyedExplosion_Small</DestroyEffect>
             <DestroySound>WepSmallWarheadExpl</DestroySound>
             <PCU>6000</PCU>
@@ -60,6 +61,7 @@
                 <SubtypeId>BigBertha</SubtypeId>
             </Id>
             <DisplayName>大贝莎超重型榴弹炮</DisplayName>
+            <Description>终极毁灭武器, 可在 5000m 距离上提供致命一击</Description>
             <Icon>Textures\GUI\Big_Bertha.dds</Icon>
             <Description/>
             <CubeSize>Large</CubeSize>
@@ -103,61 +105,10 @@
             <InventoryMaxVolume>1</InventoryMaxVolume>
             <DamageEffectName>Damage_WeapExpl_Damaged</DamageEffectName>
             <DamagedSound>ParticleWeapExpl</DamagedSound>
+            <MaxRangeMeters>5000</MaxRangeMeters>
             <DestroyEffect>BlockDestroyedExplosion_Small</DestroyEffect>
             <DestroySound>WepSmallWarheadExpl</DestroySound>
             <PCU>30000</PCU>
-        </Definition>
-
-        <Definition xsi:type="MyObjectBuilder_WeaponBlockDefinition">
-            <Id>
-                <TypeId>SmallMissileLauncher</TypeId>
-                <SubtypeId>LittleDavidSmall</SubtypeId>
-            </Id>
-            <DisplayName>小大卫超大口径迫击炮</DisplayName>
-            <Icon>Textures\GUI\Little_David.dds</Icon>
-            <Description/>
-            <CubeSize>Small</CubeSize>
-            <BlockTopology>TriangleMesh</BlockTopology>
-            <Size x="5" y="5" z="30"/>
-            <Center x="2" y="2" z="29"/>
-            <ModelOffset x="0" y="0" z="0"/>
-            <Model>Models\large\Little_David.mwm</Model>
-            <Components>
-                <Component Subtype="SteelPlate" Count="25"/>
-                <Component Subtype="Construction" Count="15"/>
-                <Component Subtype="SmallTube" Count="15"/>
-                <Component Subtype="Motor" Count="8"/>
-                <Component Subtype="MetalGrid" Count="15"/>
-                <Component Subtype="LargeTube" Count="20"/>
-                <Component Subtype="Computer" Count="6"/>
-                <Component Subtype="Construction" Count="20"/>
-                <Component Subtype="SteelPlate" Count="40"/>
-            </Components>
-            <CriticalComponent Subtype="Computer" Index="0"/>
-            <MountPoints>
-                <MountPoint Side="Back" StartX="0" StartY="0" EndX="5" EndY="5"/>
-                <MountPoint Side="Top" StartX="0" StartY="0" EndX="5" EndY="10"/>
-                <MountPoint Side="Bottom" StartX="0" StartY="20" EndX="5" EndY="30"/>
-                <MountPoint Side="Right" StartX="0" StartY="0" EndX="2" EndY="5"/>
-                <MountPoint Side="Left" StartX="20" StartY="0" EndX="30" EndY="5"/>
-            </MountPoints>
-            <BuildProgressModels>
-                <Model BuildPercentUpperBound="0.33" File="Models\large\Little_David_constr_1.mwm"/>
-                <Model BuildPercentUpperBound="0.66" File="Models\large\Little_David_constr_2.mwm"/>
-                <Model BuildPercentUpperBound="1.00" File="Models\large\Little_David_constr_3.mwm"/>
-            </BuildProgressModels>
-            <BlockPairName>LittleDavid</BlockPairName>
-            <MirroringY>Z</MirroringY>
-            <MirroringZ>Y</MirroringZ>
-            <BuildTimeSeconds>60</BuildTimeSeconds>
-            <WeaponDefinitionId Subtype="LittleDavidSmall"/>
-            <ResourceSinkGroup>Defense</ResourceSinkGroup>
-            <InventoryMaxVolume>1</InventoryMaxVolume>
-            <DamageEffectName>Damage_WeapExpl_Damaged</DamageEffectName>
-            <DamagedSound>ParticleWeapExpl</DamagedSound>
-            <DestroyEffect>BlockDestroyedExplosion_Small</DestroyEffect>
-            <DestroySound>WepSmallWarheadExpl</DestroySound>
-            <PCU>6000</PCU>
         </Definition>
     </CubeBlocks>
 </Definitions>

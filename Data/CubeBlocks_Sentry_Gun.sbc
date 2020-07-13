@@ -7,6 +7,7 @@
                 <SubtypeId>SmallSentryGun</SubtypeId>
             </Id>
             <DisplayName>5p56mm 哨戒机枪</DisplayName>
+            <Description>玩具枪</Description>
             <Icon>Textures\GUI\SentryGun.dds</Icon>
             <Description/>
             <CubeSize>Small</CubeSize>

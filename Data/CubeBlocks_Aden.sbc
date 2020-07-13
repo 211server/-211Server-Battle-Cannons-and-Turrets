@@ -1,13 +1,13 @@
 <?xml version="1.0"?>
 <Definitions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
     <CubeBlocks>
-
         <Definition xsi:type="MyObjectBuilder_LargeTurretBaseDefinition">
             <Id>
                 <TypeId>LargeGatlingTurret</TypeId>
                 <SubtypeId>LargeAden</SubtypeId>
             </Id>
             <DisplayName>30mm 亚丁转膛机炮</DisplayName>
+            <Description>小口径副炮, 提供一定自卫火力</Description>
             <Icon>Textures\GUI\AdenTurret.dds</Icon>
             <Description/>
             <CubeSize>Large</CubeSize>
@@ -82,6 +82,7 @@
                 <SubtypeId>SmallAden</SubtypeId>
             </Id>
             <DisplayName>30mm 亚丁转膛机炮</DisplayName>
+            <Description>小口径副炮, 提供一定自卫火力</Description>
             <Icon>Textures\GUI\AdenTurret.dds</Icon>
             <Description/>
             <CubeSize>Small</CubeSize>

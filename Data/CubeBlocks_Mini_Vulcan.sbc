@@ -7,6 +7,7 @@
                 <SubtypeId>MiniVulcan</SubtypeId>
             </Id>
             <DisplayName>M61 迷你火神机炮</DisplayName>
+            <Description>玩具枪</Description>
             <Icon>Textures\GUI\SentryVulcanGatling.dds</Icon>
             <Description/>
             <CubeSize>Small</CubeSize>
