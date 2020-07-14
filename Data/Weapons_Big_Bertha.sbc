@@ -8,7 +8,7 @@
             </Id>
             <ProjectileAmmoData RateOfFire="8" ShootSoundName="LittleDavid" ShotsInBurst="1"/>
             <ReleaseTimeAfterFire>7500</ReleaseTimeAfterFire>
-            <DeviateShotAngle>1</DeviateShotAngle>
+            <DeviateShotAngle>0.5</DeviateShotAngle>
             <MuzzleFlashLifeSpan>100</MuzzleFlashLifeSpan>
             <NoAmmoSoundName>WepShipGatlingNoAmmo</NoAmmoSoundName>
             <AmmoMagazines>
@@ -25,7 +25,7 @@
 
             <MissileAmmoData RateOfFire="20" ShootSoundName="BigBertha" ShotsInBurst="1"/>
             <NoAmmoSoundName>WepPlayRifleNoAmmo</NoAmmoSoundName>
-            <DeviateShotAngle>1</DeviateShotAngle>
+            <DeviateShotAngle>0.5</DeviateShotAngle>
             <ReleaseTimeAfterFire>15000</ReleaseTimeAfterFire>
             <MuzzleFlashLifeSpan>5000</MuzzleFlashLifeSpan>
             <AmmoMagazines>
