@@ -7,9 +7,9 @@
                 <SubtypeId>Aden30x113</SubtypeId>
             </Id>
             <BasicProperties>
-                <DesiredSpeed>400</DesiredSpeed>
+                <DesiredSpeed>700</DesiredSpeed>
                 <SpeedVariance>0</SpeedVariance>
-                <MaxTrajectory>2000</MaxTrajectory>
+                <MaxTrajectory>1000</MaxTrajectory>
                 <BackkickForce>200</BackkickForce>
                 <PhysicalMaterial>GunBullet</PhysicalMaterial>
             </BasicProperties>

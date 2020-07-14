@@ -7,9 +7,9 @@
                 <SubtypeId>LittleDavid</SubtypeId>
             </Id>
             <BasicProperties>
-                <DesiredSpeed>1100</DesiredSpeed>
+                <DesiredSpeed>1000</DesiredSpeed>
                 <SpeedVariance>0</SpeedVariance>
-                <MaxTrajectory>20000</MaxTrajectory>
+                <MaxTrajectory>2000</MaxTrajectory>
                 <BackkickForce>250000</BackkickForce>
                 <PhysicalMaterial>Missile</PhysicalMaterial>
             </BasicProperties>
@@ -31,7 +31,7 @@
             <BasicProperties>
                 <DesiredSpeed>1300</DesiredSpeed>
                 <SpeedVariance>0</SpeedVariance>
-                <MaxTrajectory>50000</MaxTrajectory>
+                <MaxTrajectory>5000</MaxTrajectory>
                 <IsExplosive>true</IsExplosive>
                 <BackkickForce>50000000</BackkickForce>
                 <PhysicalMaterial>Missile</PhysicalMaterial>

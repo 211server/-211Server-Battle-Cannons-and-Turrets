@@ -9,7 +9,7 @@
             <BasicProperties>
                 <DesiredSpeed>1000</DesiredSpeed>
                 <SpeedVariance>0</SpeedVariance>
-                <MaxTrajectory>1000</MaxTrajectory>
+                <MaxTrajectory>800</MaxTrajectory>
                 <BackkickForce>30</BackkickForce>
                 <PhysicalMaterial>GunBullet</PhysicalMaterial>
             </BasicProperties>

@@ -7,9 +7,9 @@
                 <SubtypeId>Bofors40mm</SubtypeId>
             </Id>
             <BasicProperties>
-                <DesiredSpeed>400</DesiredSpeed>
+                <DesiredSpeed>600</DesiredSpeed>
                 <SpeedVariance>0</SpeedVariance>
-                <MaxTrajectory>3000</MaxTrajectory>
+                <MaxTrajectory>1000</MaxTrajectory>
                 <IsExplosive>true</IsExplosive>
                 <BackkickForce>500</BackkickForce>
                 <PhysicalMaterial>Missile</PhysicalMaterial>
