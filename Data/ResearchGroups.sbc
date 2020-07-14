@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<Definitions xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <ResearchGroups>
+        <ResearchGroup xsi:type="ResearchGroup">
+            <Id Type="MyObjectBuilder_ResearchGroupDefinition" Subtype="MiniCannonsGroup"/>
+            <Members>
+                <BlockId Type="MyObjectBuilder_LargeGatlingTurret" Subtype="MiniVulcan"/>
+                <BlockId Type="MyObjectBuilder_LargeGatlingTurret" Subtype="SmallSentryGun"/>
+                <BlockId Type="MyObjectBuilder_LargeGatlingTurret" Subtype="SmallSentryGatling"/>
+                <BlockId Type="MyObjectBuilder_LargeGatlingTurret" Subtype="SentryMissileTurret"/>
+            </Members>
+        </ResearchGroup>
+        <ResearchGroup xsi:type="ResearchGroup">
+            <Id Type="MyObjectBuilder_ResearchGroupDefinition" Subtype="BasicCannonsGroup"/>
+            <Members>
+                <BlockId Type="MyObjectBuilder_LargeGatlingTurret" Subtype="LargeVulcan"/>
+                <BlockId Type="MyObjectBuilder_LargeGatlingTurret" Subtype="SmallVulcan"/>
+                <BlockId Type="MyObjectBuilder_LargeMissileTurret" Subtype="40mmBofors"/>
+                <BlockId Type="MyObjectBuilder_LargeMissileTurret" Subtype="40mmBofors_small"/>
+                <BlockId Type="MyObjectBuilder_LargeGatlingTurret" Subtype="LargeAden"/>
+                <BlockId Type="MyObjectBuilder_LargeGatlingTurret" Subtype="SmallAden"/>
+            </Members>
+        </ResearchGroup>
+        <ResearchGroup xsi:type="ResearchGroup">
+            <Id Type="MyObjectBuilder_ResearchGroupDefinition" Subtype="AdvancedCannonsGroup"/>
+            <Members>
+                <BlockId Type="MyObjectBuilder_LargeMissileTurret" Subtype="300mmAutoCannon_1"/>
+                <BlockId Type="MyObjectBuilder_LargeMissileTurret" Subtype="300mmAutoCannon_2"/>
+                <BlockId Type="MyObjectBuilder_LargeMissileTurret" Subtype="300mmAutoCannon_3"/>
+                <BlockId Type="MyObjectBuilder_LargeMissileTurret" Subtype="900mmAutoCannon_1"/>
+                <BlockId Type="MyObjectBuilder_LargeMissileTurret" Subtype="900mmAutoCannon_2"/>
+                <BlockId Type="MyObjectBuilder_LargeMissileTurret" Subtype="900mmAutoCannon_3"/>
+                <BlockId Type="MyObjectBuilder_LargeMissileTurret" Subtype="Side300Cannon"/>
+                <BlockId Type="MyObjectBuilder_LargeMissileTurret" Subtype="Side900Cannon"/>
+                <BlockId Type="MyObjectBuilder_LargeMissileTurret" Subtype="300mmAutoCannon_1_small"/>
+                <BlockId Type="MyObjectBuilder_LargeMissileTurret" Subtype="300mmAutoCannon_2_small"/>
+                <BlockId Type="MyObjectBuilder_LargeMissileTurret" Subtype="300mmAutoCannon_3_small"/>
+                <BlockId Type="MyObjectBuilder_LargeMissileTurret" Subtype="900mmAutoCannon_1_small"/>
+                <BlockId Type="MyObjectBuilder_LargeMissileTurret" Subtype="900mmAutoCannon_2_small"/>
+                <BlockId Type="MyObjectBuilder_LargeMissileTurret" Subtype="900mmAutoCannon_3_small"/>
+                <BlockId Type="MyObjectBuilder_LargeMissileTurret" Subtype="Side300Cannonsmall"/>
+            </Members>
+        </ResearchGroup>
+        <ResearchGroup xsi:type="ResearchGroup">
+            <Id Type="MyObjectBuilder_ResearchGroupDefinition" Subtype="SuperCannonsGroup"/>
+            <Members>
+                <BlockId Type="MyObjectBuilder_LargeMissileTurret" Subtype="LittleDavid"/>
+                <BlockId Type="MyObjectBuilder_LargeMissileTurret" Subtype="BigBertha"/>
+            </Members>
+        </ResearchGroup>
+    </ResearchGroups>
+</Definitions>

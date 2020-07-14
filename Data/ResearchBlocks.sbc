@@ -1,0 +1,170 @@
+<?xml version="1.0"?>
+<Definitions xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <ResearchBlocks>
+        <ResearchBlock xsi:type="ResearchBlock">
+            <Id Type="MyObjectBuilder_LargeGatlingTurret" Subtype="MiniVulcan"/>
+            <UnlockedByGroups>
+                <GroupSubtype>17</GroupSubtype> <!-- SmallMissileLauncher -->
+            </UnlockedByGroups>
+        </ResearchBlock>
+        <ResearchBlock xsi:type="ResearchBlock">
+            <Id Type="MyObjectBuilder_LargeGatlingTurret" Subtype="SmallSentryGun"/>
+            <UnlockedByGroups>
+                <GroupSubtype>17</GroupSubtype> <!-- SmallMissileLauncher -->
+            </UnlockedByGroups>
+        </ResearchBlock>
+        <ResearchBlock xsi:type="ResearchBlock">
+            <Id Type="MyObjectBuilder_LargeGatlingTurret" Subtype="SmallSentryGatling"/>
+            <UnlockedByGroups>
+                <GroupSubtype>17</GroupSubtype> <!-- SmallMissileLauncher -->
+            </UnlockedByGroups>
+        </ResearchBlock>
+        <ResearchBlock xsi:type="ResearchBlock">
+            <Id Type="MyObjectBuilder_LargeGatlingTurret" Subtype="SentryMissileTurret"/>
+            <UnlockedByGroups>
+                <GroupSubtype>17</GroupSubtype> <!-- SmallMissileLauncher -->
+            </UnlockedByGroups>
+        </ResearchBlock>
+
+        <ResearchBlock xsi:type="ResearchBlock">
+            <Id Type="MyObjectBuilder_LargeGatlingTurret" Subtype="LargeVulcan"/>
+            <UnlockedByGroups>
+                <GroupSubtype>MiniCannonsGroup</GroupSubtype>
+            </UnlockedByGroups>
+        </ResearchBlock>
+        <ResearchBlock xsi:type="ResearchBlock">
+            <Id Type="MyObjectBuilder_LargeGatlingTurret" Subtype="SmallVulcan"/>
+            <UnlockedByGroups>
+                <GroupSubtype>MiniCannonsGroup</GroupSubtype>
+            </UnlockedByGroups>
+        </ResearchBlock>
+        <ResearchBlock xsi:type="ResearchBlock">
+            <Id Type="MyObjectBuilder_LargeMissileTurret" Subtype="40mmBofors"/>
+            <UnlockedByGroups>
+                <GroupSubtype>MiniCannonsGroup</GroupSubtype>
+            </UnlockedByGroups>
+        </ResearchBlock>
+        <ResearchBlock xsi:type="ResearchBlock">
+            <Id Type="MyObjectBuilder_LargeMissileTurret" Subtype="40mmBofors_small"/>
+            <UnlockedByGroups>
+                <GroupSubtype>MiniCannonsGroup</GroupSubtype>
+            </UnlockedByGroups>
+        </ResearchBlock>
+        <ResearchBlock xsi:type="ResearchBlock">
+            <Id Type="MyObjectBuilder_LargeGatlingTurret" Subtype="LargeAden"/>
+            <UnlockedByGroups>
+                <GroupSubtype>MiniCannonsGroup</GroupSubtype>
+            </UnlockedByGroups>
+        </ResearchBlock>
+        <ResearchBlock xsi:type="ResearchBlock">
+            <Id Type="MyObjectBuilder_LargeGatlingTurret" Subtype="SmallAden"/>
+            <UnlockedByGroups>
+                <GroupSubtype>MiniCannonsGroup</GroupSubtype>
+            </UnlockedByGroups>
+        </ResearchBlock>
+
+        <ResearchBlock xsi:type="ResearchBlock">
+            <Id Type="MyObjectBuilder_LargeMissileTurret" Subtype="300mmAutoCannon_1"/>
+            <UnlockedByGroups>
+                <GroupSubtype>BasicCannonsGroup</GroupSubtype>
+            </UnlockedByGroups>
+        </ResearchBlock>
+        <ResearchBlock xsi:type="ResearchBlock">
+            <Id Type="MyObjectBuilder_LargeMissileTurret" Subtype="300mmAutoCannon_2"/>
+            <UnlockedByGroups>
+                <GroupSubtype>BasicCannonsGroup</GroupSubtype>
+            </UnlockedByGroups>
+        </ResearchBlock>
+        <ResearchBlock xsi:type="ResearchBlock">
+            <Id Type="MyObjectBuilder_LargeMissileTurret" Subtype="300mmAutoCannon_3"/>
+            <UnlockedByGroups>
+                <GroupSubtype>BasicCannonsGroup</GroupSubtype>
+            </UnlockedByGroups>
+        </ResearchBlock>
+        <ResearchBlock xsi:type="ResearchBlock">
+            <Id Type="MyObjectBuilder_LargeMissileTurret" Subtype="900mmAutoCannon_1"/>
+            <UnlockedByGroups>
+                <GroupSubtype>BasicCannonsGroup</GroupSubtype>
+            </UnlockedByGroups>
+        </ResearchBlock>
+        <ResearchBlock xsi:type="ResearchBlock">
+            <Id Type="MyObjectBuilder_LargeMissileTurret" Subtype="900mmAutoCannon_2"/>
+            <UnlockedByGroups>
+                <GroupSubtype>BasicCannonsGroup</GroupSubtype>
+            </UnlockedByGroups>
+        </ResearchBlock>
+        <ResearchBlock xsi:type="ResearchBlock">
+            <Id Type="MyObjectBuilder_LargeMissileTurret" Subtype="900mmAutoCannon_3"/>
+            <UnlockedByGroups>
+                <GroupSubtype>BasicCannonsGroup</GroupSubtype>
+            </UnlockedByGroups>
+        </ResearchBlock>
+        <ResearchBlock xsi:type="ResearchBlock">
+            <Id Type="MyObjectBuilder_LargeMissileTurret" Subtype="Side300Cannon"/>
+            <UnlockedByGroups>
+                <GroupSubtype>BasicCannonsGroup</GroupSubtype>
+            </UnlockedByGroups>
+        </ResearchBlock>
+        <ResearchBlock xsi:type="ResearchBlock">
+            <Id Type="MyObjectBuilder_LargeMissileTurret" Subtype="Side900Cannon"/>
+            <UnlockedByGroups>
+                <GroupSubtype>BasicCannonsGroup</GroupSubtype>
+            </UnlockedByGroups>
+        </ResearchBlock>
+        <ResearchBlock xsi:type="ResearchBlock">
+            <Id Type="MyObjectBuilder_LargeMissileTurret" Subtype="300mmAutoCannon_1_small"/>
+            <UnlockedByGroups>
+                <GroupSubtype>BasicCannonsGroup</GroupSubtype>
+            </UnlockedByGroups>
+        </ResearchBlock>
+        <ResearchBlock xsi:type="ResearchBlock">
+            <Id Type="MyObjectBuilder_LargeMissileTurret" Subtype="300mmAutoCannon_2_small"/>
+            <UnlockedByGroups>
+                <GroupSubtype>BasicCannonsGroup</GroupSubtype>
+            </UnlockedByGroups>
+        </ResearchBlock>
+        <ResearchBlock xsi:type="ResearchBlock">
+            <Id Type="MyObjectBuilder_LargeMissileTurret" Subtype="300mmAutoCannon_3_small"/>
+            <UnlockedByGroups>
+                <GroupSubtype>BasicCannonsGroup</GroupSubtype>
+            </UnlockedByGroups>
+        </ResearchBlock>
+        <ResearchBlock xsi:type="ResearchBlock">
+            <Id Type="MyObjectBuilder_LargeMissileTurret" Subtype="900mmAutoCannon_1_small"/>
+            <UnlockedByGroups>
+                <GroupSubtype>BasicCannonsGroup</GroupSubtype>
+            </UnlockedByGroups>
+        </ResearchBlock>
+        <ResearchBlock xsi:type="ResearchBlock">
+            <Id Type="MyObjectBuilder_LargeMissileTurret" Subtype="900mmAutoCannon_2_small"/>
+            <UnlockedByGroups>
+                <GroupSubtype>BasicCannonsGroup</GroupSubtype>
+            </UnlockedByGroups>
+        </ResearchBlock>
+        <ResearchBlock xsi:type="ResearchBlock">
+            <Id Type="MyObjectBuilder_LargeMissileTurret" Subtype="900mmAutoCannon_3_small"/>
+            <UnlockedByGroups>
+                <GroupSubtype>BasicCannonsGroup</GroupSubtype>
+            </UnlockedByGroups>
+        </ResearchBlock>
+        <ResearchBlock xsi:type="ResearchBlock">
+            <Id Type="MyObjectBuilder_LargeMissileTurret" Subtype="Side300Cannonsmall"/>
+            <UnlockedByGroups>
+                <GroupSubtype>BasicCannonsGroup</GroupSubtype>
+            </UnlockedByGroups>
+        </ResearchBlock>
+
+        <ResearchBlock xsi:type="ResearchBlock">
+            <Id Type="MyObjectBuilder_LargeMissileTurret" Subtype="LittleDavid"/>
+            <UnlockedByGroups>
+                <GroupSubtype>AdvancedCannonsGroup</GroupSubtype>
+            </UnlockedByGroups>
+        </ResearchBlock>
+        <ResearchBlock xsi:type="ResearchBlock">
+            <Id Type="MyObjectBuilder_LargeMissileTurret" Subtype="BigBertha"/>
+            <UnlockedByGroups>
+                <GroupSubtype>AdvancedCannonsGroup</GroupSubtype>
+            </UnlockedByGroups>
+        </ResearchBlock>
+    </ResearchBlocks>
+</Definitions>
