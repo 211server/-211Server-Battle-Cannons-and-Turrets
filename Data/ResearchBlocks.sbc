@@ -155,13 +155,13 @@
         </ResearchBlock>
 
         <ResearchBlock xsi:type="ResearchBlock">
-            <Id Type="MyObjectBuilder_LargeMissileTurret" Subtype="LittleDavid"/>
+            <Id Type="MyObjectBuilder_SmallMissileLauncher" Subtype="LittleDavid"/>
             <UnlockedByGroups>
                 <GroupSubtype>AdvancedCannonsGroup</GroupSubtype>
             </UnlockedByGroups>
         </ResearchBlock>
         <ResearchBlock xsi:type="ResearchBlock">
-            <Id Type="MyObjectBuilder_LargeMissileTurret" Subtype="BigBertha"/>
+            <Id Type="MyObjectBuilder_SmallMissileLauncher" Subtype="BigBertha"/>
             <UnlockedByGroups>
                 <GroupSubtype>AdvancedCannonsGroup</GroupSubtype>
             </UnlockedByGroups>
