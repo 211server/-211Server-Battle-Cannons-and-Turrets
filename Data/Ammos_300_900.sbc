@@ -7,7 +7,7 @@
                 <SubtypeId>300mmShell_HE</SubtypeId>
             </Id>
             <BasicProperties>
-                <DesiredSpeed>400</DesiredSpeed>
+                <DesiredSpeed>300</DesiredSpeed>
                 <SpeedVariance>0</SpeedVariance>
                 <MaxTrajectory>1200</MaxTrajectory>
                 <IsExplosive>true</IsExplosive>
@@ -31,7 +31,7 @@
                 <SubtypeId>900mmShell_HE</SubtypeId>
             </Id>
             <BasicProperties>
-                <DesiredSpeed>400</DesiredSpeed>
+                <DesiredSpeed>300</DesiredSpeed>
                 <SpeedVariance>0</SpeedVariance>
                 <MaxTrajectory>1200</MaxTrajectory>
                 <IsExplosive>true</IsExplosive>
@@ -55,7 +55,7 @@
                 <SubtypeId>300mmShell_AP</SubtypeId>
             </Id>
             <BasicProperties>
-                <DesiredSpeed>400</DesiredSpeed>
+                <DesiredSpeed>300</DesiredSpeed>
                 <SpeedVariance>0</SpeedVariance>
                 <MaxTrajectory>1200</MaxTrajectory>
                 <IsExplosive>true</IsExplosive>
@@ -79,7 +79,7 @@
                 <SubtypeId>900mmShell_AP</SubtypeId>
             </Id>
             <BasicProperties>
-                <DesiredSpeed>400</DesiredSpeed>
+                <DesiredSpeed>300</DesiredSpeed>
                 <SpeedVariance>0</SpeedVariance>
                 <MaxTrajectory>1200</MaxTrajectory>
                 <IsExplosive>true</IsExplosive>

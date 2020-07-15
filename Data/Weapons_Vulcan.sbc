@@ -8,7 +8,7 @@
             </Id>
             <ProjectileAmmoData RateOfFire="3000" ShootSoundName="Vulcan"/>
             <ReleaseTimeAfterFire>204</ReleaseTimeAfterFire>
-            <DeviateShotAngle>1</DeviateShotAngle>
+            <DeviateShotAngle>0.2</DeviateShotAngle>
             <MuzzleFlashLifeSpan>15</MuzzleFlashLifeSpan>
             <NoAmmoSoundName>WepShipGatlingNoAmmo</NoAmmoSoundName>
             <AmmoMagazines>
@@ -23,7 +23,7 @@
             </Id>
             <ProjectileAmmoData RateOfFire="3000" ShootSoundName="Vulcan"/>
             <ReleaseTimeAfterFire>204</ReleaseTimeAfterFire>
-            <DeviateShotAngle>1</DeviateShotAngle>
+            <DeviateShotAngle>0.6</DeviateShotAngle>
             <MuzzleFlashLifeSpan>15</MuzzleFlashLifeSpan>
             <NoAmmoSoundName>WepShipGatlingNoAmmo</NoAmmoSoundName>
             <AmmoMagazines>

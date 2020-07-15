@@ -29,7 +29,7 @@
                 <SubtypeId>BigBertha</SubtypeId>
             </Id>
             <BasicProperties>
-                <DesiredSpeed>1300</DesiredSpeed>
+                <DesiredSpeed>1200</DesiredSpeed>
                 <SpeedVariance>0</SpeedVariance>
                 <MaxTrajectory>5000</MaxTrajectory>
                 <IsExplosive>true</IsExplosive>

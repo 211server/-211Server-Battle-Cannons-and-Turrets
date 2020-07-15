@@ -7,7 +7,7 @@
                 <SubtypeId>Vulcan20x102</SubtypeId>
             </Id>
             <BasicProperties>
-                <DesiredSpeed>1000</DesiredSpeed>
+                <DesiredSpeed>1200</DesiredSpeed>
                 <SpeedVariance>0</SpeedVariance>
                 <MaxTrajectory>800</MaxTrajectory>
                 <BackkickForce>30</BackkickForce>
