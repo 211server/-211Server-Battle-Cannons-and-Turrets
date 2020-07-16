@@ -6,8 +6,8 @@
                 <TypeId>SmallMissileLauncher</TypeId>
                 <SubtypeId>LittleDavid</SubtypeId>
             </Id>
-            <DisplayName>小大卫超大口径迫击炮</DisplayName>
-            <Description>长程狙击武器, 射程可达 2000m</Description>
+            <DisplayName>小大卫</DisplayName>
+            <Description>射程可达 2000m 的狙击型支援火力</Description>
             <Icon>Textures\GUI\Little_David.dds</Icon>
             <Description/>
             <CubeSize>Large</CubeSize>
@@ -60,8 +60,8 @@
                 <TypeId>SmallMissileLauncher</TypeId>
                 <SubtypeId>BigBertha</SubtypeId>
             </Id>
-            <DisplayName>大贝莎超重型榴弹炮</DisplayName>
-            <Description>终极毁灭武器, 可在 5000m 距离上提供致命一击</Description>
+            <DisplayName>大贝莎</DisplayName>
+            <Description>在 5000m 距离上依然能够一击必杀的终极毁灭武器</Description>
             <Icon>Textures\GUI\Big_Bertha.dds</Icon>
             <Description/>
             <CubeSize>Large</CubeSize>
